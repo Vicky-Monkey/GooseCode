@@ -1,0 +1,6 @@
+>fragment_1 First two bases of the start codon
+AT
+>fragment_2 Continuation in FASTA order
+GGCT
+>fragment_3 Final segment; joined DNA translates to MACK
+TGTAAATGA
