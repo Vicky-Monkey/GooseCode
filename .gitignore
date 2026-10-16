@@ -1,0 +1,11 @@
+macos/.build/
+dist/
+dev/
+.DS_Store
+node_modules/
+test-results/
+playwright-report/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
